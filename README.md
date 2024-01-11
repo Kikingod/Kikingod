@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Kikingod
+- 👀 I’m interested in python
+- 🌱 I’m currently learning Open-Cv and pyautogui
+- 📫 How to reach me ...
+- 😄 Pronouns: hey\Hou
+- ⚡ Fun fact: I have to study
