@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Kry3tof Marcol
 
-<!--
-**Kikingod/Kikingod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer who loves building with **Next.js**, **TypeScript**, **Python** and **Langraph**.  
+Currently working on a **Next.js app** to sharpen my frontend and backend skills.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Frontend: React, Next.js, Tailwind, CSS
+- Backend: Node.js, GraphQL, Prisma, Flask, FastApi
+- Tools: Git, Docker, VSCode, Webstorm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- 📧 marcol.prace@gmail.com
+
+
+Thanks for visiting!
