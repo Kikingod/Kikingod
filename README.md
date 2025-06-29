@@ -8,6 +8,12 @@ Currently working on a **Next.js app** to sharpen my frontend and backend skills
 - Backend: Node.js, GraphQL, Prisma, Flask, FastApi
 - Tools: Git, Docker, VSCode, Webstorm
 
+### 📈 Learning goals
+- Improve my skills in Next.js and API design
+- Master Prisma and PostgreSQL
+- Explore deploying with Vercel and Docker
+
+
 ## 📫 Contact
 - 📧 marcol.prace@gmail.com
 
