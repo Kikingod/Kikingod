@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kry3tof Marcol
+# 👋 Hi, I'm Kryštof Marcol
 
 I'm a full-stack developer who loves building with **Next.js**, **TypeScript**, **Python** and **Langraph**.  
 Currently working on a **Next.js app** to sharpen my frontend and backend skills.
